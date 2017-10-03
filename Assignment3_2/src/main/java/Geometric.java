@@ -1,7 +1,7 @@
 
 public class Geometric {
 
-	public double diameter(int r) {
+	public double circleDiameter(int r) {
 		double result = 0.0;
 		result = 2 * r;
 		return result;
