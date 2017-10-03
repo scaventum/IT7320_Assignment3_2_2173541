@@ -13,7 +13,6 @@ public class Geometric {
 		return result;
 	}
 
-
 	public double circleArea(int r) {
 		double result = 0.0;
 		result = (22 * r * r)/ 7;
