@@ -21,6 +21,7 @@ public class GeometricTest {
 
 	@Test
 	public void testDiameter() {
+		//somecomment
 		assertEquals(28.0,obj.circleDiameter(r),0.1);
 	}
 
